@@ -2,7 +2,7 @@
 
 A new Bloc Flutter project.
 This project contains a simple bloc counter application, using blocs and cubits
-It shows accurate project structure for a first bloc application 
+It shows accurate project structure for a first bloc application and also to check if there is internet connected using wifi or mobile data 
 |-lib
 |   --Business Logic Layer
 |       --counter_cubit.dart
